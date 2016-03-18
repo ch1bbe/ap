@@ -5,6 +5,8 @@ vagrant
 
 docker
 
+gerrit
+
 artifactory
 
 jenkins
