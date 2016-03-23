@@ -17,7 +17,18 @@ github
     http://stackoverflow.com/a/18019143
     git clone git@github.com:1233456.git
 
-puppet/_chef_
+puppet
+
+chef
+ chef-client
+ https://learn.chef.io/learn-the-basics/ubuntu/configure-a-resource/
+ instructions for chef 12.*
+ https://downloads.chef.io/chef-client/ubuntu/
+ sudo dpkg -i DEB_PACKAGE http://askubuntu.com/a/40781
+
+ chef cookbook
+ https://learn.chef.io/learn-the-basics/ubuntu/make-your-recipe-more-manageable/
+ https://downloads.chef.io/chef-dk/ubuntu/
 
 vagrant
 
