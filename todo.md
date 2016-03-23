@@ -17,14 +17,24 @@ github
     http://stackoverflow.com/a/18019143
     git clone git@github.com:1233456.git
 
-puppet/chef
+puppet/_chef_
 
 vagrant
 
 docker
+    https://github.com/spotify/docker-maven-plugin
 
 gerrit
+    Sync repo from..
+    https://login.launchpad.net/ <- create account and login, need to change refering url. Instead of docker image.
+    https://hub.docker.com/r/openfrontier/gerrit/
+
+    User -> settings, add ssh key, and set username in Profile
 
 artifactory
 
 jenkins
+
+akka
+
+pax-exam
