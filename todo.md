@@ -31,6 +31,8 @@ chef
  https://downloads.chef.io/chef-dk/ubuntu/
 
 vagrant
+ https://developer.github.com/guides/using-ssh-agent-forwarding/
+ http://wildlyinaccurate.com/using-ssh-agent-forwarding-with-vagrant/
 
 docker
     https://github.com/spotify/docker-maven-plugin
